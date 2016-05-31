@@ -75,7 +75,6 @@ class Ball {
       }
     }
     else { // state = DEAD
-      rad = 0;
       draw();
     }
   }
